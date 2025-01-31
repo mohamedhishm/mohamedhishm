@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @mohamedhishm  
+- 👀 I’m interested in programming, problem-solving, and participating in coding competitions.  
+- 🌱 I’m currently learning advanced programming concepts, competitive programming, and software development through online courses and university studies.  
+- 💞️ I’m looking to collaborate on open-source projects, competitive programming challenges, and volunteer work related to technology and education.  
+- 📫 How to reach me: You can contact me via email at mohamedhishm or through my GitHub profile.  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I enjoy taking on new challenges, whether in coding competitions or exploring new technologies, and I believe in continuous learning to stay ahead in the tech world.  
