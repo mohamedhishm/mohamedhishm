@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hisham Basuony</h1>
 <h3 align="center">I'm a Computer Science student passionate about Artificial Intelligence, Problem Solving, Competitive Programming, and Software Development ,from Egypt</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedhishm" alt="mohamedhishm" /></a> </p>
-
 - 🔭 I’m currently working on [AI Engineering projects](https://github.com/mohamedhishm?tab=repositories)
 
 - 🌱 I’m currently learning **AI Engineering, AI Agents, LLMs, RAG systems, and advanced programming concepts through hands-on projects.**
@@ -37,4 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedhishm&show_icons=true&locale=en" alt="mohamedhishm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedhishm&" alt="mohamedhishm" /></p>
-
